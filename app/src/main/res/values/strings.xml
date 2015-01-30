@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidChallenge</string>
+
+    <string name="lbl_tab_instagram">Instagram</string>
+    <string name="lbl_tab_fingerpaint">FingerPaint</string>
+    <string name="lbl_tab_camera_beautifier">Beautifier</string>
+
+	<string name="lbl_no_results">No results found</string>    
+	<string name="lbl_refresh">Try again</string>
+	<string name="lbl_service_error">Service error</string>  	
+	<string name="lbl_progress_container_text">Loading&#8230;</string>
+	<string name="lbl_loading_container_text">loading&#8230;</string>	
+
+    <string name="lbl_loading_error">"An error has occurred while loading more data"</string>
+
+	<string name="lbl_default_text">This is a default caption</string>
+    <string name="lbl_sending_image_wear">Downloading and sending image to wearable</string>
+
+	<string name="lbl_menu_export">Export</string>  
+    <string name="lbl_menu_color">Color</string>  
+	<string name="lbl_menu_blur">Blur</string>  	    
+	<string name="lbl_menu_emboss">Emboss</string>  
+	<string name="lbl_menu_erase">Erase</string>  
+	<string name="lbl_menu_erase_all">Erase All</string>
+    <string name="lbl_menu_change_camera">Change camera</string>
+
+    <string name="lbl_image_filename">AndroidChallenge_%s.png</string>
+    <string name="lbl_exporting">Exporting</string>
+    <string name="msg_exporting_img">Exporting Image to External Storage</string>
+	<string name="msg_export_img_successful">Image successfully exported.</string>
+	<string name="msg_export_img_error">An error occurred while exporting image.</string>
+
+    <string name="lbl_camera_beautifier">Point the camera at a face in a bright environment to beautify it.</string>
+
+</resources>

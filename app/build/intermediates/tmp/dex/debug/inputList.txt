@@ -1,0 +1,10 @@
+/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/classes/debug
+/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-02a20caeee99402d5582199f179f86d1cbbf0d6d.jar
+/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8e1bbfdf33b12a6735e7d7c3b4592dbe7a5ce3f8.jar
+/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/CWAC-AdapterWrapper-3694b688cd72f1eff1a4e1811614d8afef9dfc1d.jar
+/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/classes-2cde5e952685f14dbc6afc1ec36493d4d229fed2.jar
+/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-ec978fd1e0d5f0106d4ff9fd07139cdb354e6b7d.jar
+/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-9038b3414bfd81ec679eb3196545442da9ae39e9.jar
+/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-6d340524e9199c8759f15112c77f2e9869a22bff.jar
+/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/classes-3abc93f37f7dac2191c3881c83064bc5e4da9dd4.jar
+/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/classes-931644fc3314820fc16ffb3ac9cbd9b998ee996f.jar

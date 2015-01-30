@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.rfplopes.androidchallenge.MainActivity" >
+
+    <item
+        android:id="@+id/action_export"
+        android:orderInCategory="10"
+        android:showAsAction="ifRoom"
+        android:title="@string/lbl_menu_export"/>
+
+    <item
+        android:id="@+id/action_color"
+        android:orderInCategory="20"
+        android:showAsAction="never"
+        android:title="@string/lbl_menu_color"/>
+
+    <item
+        android:id="@+id/action_emboss"
+        android:orderInCategory="30"
+        android:showAsAction="never"	
+        android:title="@string/lbl_menu_emboss"/>
+    
+    <item
+        android:id="@+id/action_blur"
+        android:orderInCategory="40"
+        android:showAsAction="never"	        
+        android:title="@string/lbl_menu_blur"/>
+    
+    <item
+        android:id="@+id/action_erase"
+        android:orderInCategory="50"
+        android:showAsAction="collapseActionView"        
+        android:title="@string/lbl_menu_erase"/>
+    
+    <item
+        android:id="@+id/action_erase_all"
+        android:orderInCategory="60"
+        android:showAsAction="collapseActionView"
+        android:title="@string/lbl_menu_erase_all"/>
+    
+    
+</menu>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/camera_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <android.view.SurfaceView
+        android:id="@+id/camera_preview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/camera_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@color/transparent_grey"
+        android:padding="5dp"
+        android:text="@string/lbl_camera_beautifier"
+        />
+
+</FrameLayout>

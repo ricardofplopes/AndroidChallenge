@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-02a20caeee99402d5582199f179f86d1cbbf0d6d.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/pre-dexed/debug/classes-7198ed2f5ddf4de16f653a1c9373dc97090e5733.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-6d340524e9199c8759f15112c77f2e9869a22bff.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/pre-dexed/debug/classes-8768ca8918f3ce3311bbe67dd9103bbe1f848aed.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/SDK/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8e1bbfdf33b12a6735e7d7c3b4592dbe7a5ce3f8.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/pre-dexed/debug/classes-0f509a07a7e8bd8f2cc7e15f12f130d901c134f4.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/SDK/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-50cda16a078d364348a9f0c4e360a3ae0f79c8b2.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/libs/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-9038b3414bfd81ec679eb3196545442da9ae39e9.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/libs/CWAC-AdapterWrapper.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="42fa7b3166daea965ad9f9d936e30e65c73211a6">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/CWAC-AdapterWrapper-3694b688cd72f1eff1a4e1811614d8afef9dfc1d.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/classes-2cde5e952685f14dbc6afc1ec36493d4d229fed2.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/classes-3abc93f37f7dac2191c3881c83064bc5e4da9dd4.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/pre-dexed/debug/classes-775ff9f4580bf79976730c0124b862450392508f.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-ec978fd1e0d5f0106d4ff9fd07139cdb354e6b7d.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-15fcb71749fd48b068b4f7381c2cbe7ad01e8b98.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/app/build/intermediates/pre-dexed/debug/classes-931644fc3314820fc16ffb3ac9cbd9b998ee996f.jar" />
+    </item>
+    <item
+        jar="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/ricardo.lopes/Development/AndroidStudioProjects/AndroidChallenge/wear/build/intermediates/pre-dexed/debug/classes-68be05ff08acde82cf1925563b9866c4bfd0ba48.jar" />
+    </item>
+
+</items>
